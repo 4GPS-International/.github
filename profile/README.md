@@ -1,4 +1,4 @@
-<img src="icon.png" alt="4GPS Logo" width="100" height="100">
+<img src="/profile/icon.png" alt="4GPS Logo" width="100" height="100">
 
 # 4GPS International
 
