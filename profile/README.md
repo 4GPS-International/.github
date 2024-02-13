@@ -1,4 +1,4 @@
-# 4GPS Fleet Management <img src="logo.png" alt="4GPS Logo" width="50" height="50">
+# 4GPS International <img src="icon" alt="4GPS Logo" width="50" height="50">
 
 Welcome to 4GPS - Your Partner in Efficient Fleet Management!
 
